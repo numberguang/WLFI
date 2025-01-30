@@ -51,7 +51,7 @@ nav ul li a:hover {
 .hero {
     height: 100vh; /* 改回原来的高度 */
     background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url('images/trump-bitcoin-bg.jpg');
+        url('trump-bitcoin-bg.jpg');
     background-size: contain; /* 改为 contain 以显示完整图片 */
     background-position: center center;
     background-repeat: no-repeat; /* 防止图片重复 */
